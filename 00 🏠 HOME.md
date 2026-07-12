@@ -9,8 +9,8 @@ tags:
 ---
 ---
 aliases:
-  - Liberápolis
-  - Home
+  - [[00.00 Liberápolis| Liberápolis]] 
+  - [[00 🏠 HOME]] 
 tags:
   - projeto/literatura
   - liberápolis
@@ -25,7 +25,7 @@ tags:
 
 ## 🏠 Projeto
 
-**Liberápolis** é uma ficção distópica de humor ácido, sátira burocrática, suspense e mistério.
+**[[00.00 Liberápolis|Liberápolis]]** é uma ficção distópica de humor ácido, sátira burocrática, suspense e mistério.
 
 Em uma cidade onde todos são formalmente livres, a escolha individual foi substituída por conforto, padronização, permissividade regulada e conformidade coletiva. A história acompanha [[32.01 Don Cross|Don Cross]], aparentemente um cidadão comum, e a chegada da [[31 Família Green|família Green]], vinda de [[21.02 Proibópolis|Proibópolis]].
 

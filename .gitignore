@@ -1,18 +1,32 @@
+# ==========================================
 # Obsidian
+# ==========================================
+
+# Layout específico de cada dispositivo
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Cache
 .obsidian/cache/
-.obsidian/workspace
 
-# Lixeira
-.trash/
-
+# ==========================================
 # Syncthing
+# ==========================================
+
 .stfolder
 .stignore
 .stversions/
 
-# Sistema
+# ==========================================
+# Lixeira do Obsidian
+# ==========================================
+
+.trash/
+
+# ==========================================
+# Sistema Operacional
+# ==========================================
+
 Thumbs.db
 Desktop.ini
 .DS_Store
