@@ -54,7 +54,6 @@ O eixo dramático é a morte de [[31.03 Lisa Green|Lisa Green]], a omissão de D
 **Prioridades imediatas:**
 
 - [ ] Fechar o cânone das duas cidades
-- [ ] Definir definitivamente a filha como **Lisa Green** ou **Lina Green**
 - [ ] Estabelecer as regras da voz narrativa em terceira pessoa
 - [ ] Estruturar a cronologia desde a contratação de Adrian até o confronto final
 - [ ] Definir a cadeia completa do acidente, da investigação e do sequestro
