@@ -126,7 +126,7 @@ Ver: [[03 📌 Cânone do Universo]].
 
 Cor predominante de Liberápolis.
 
-Os carros, as roupas, o asfalto e parte da arquitetura são cinza. A uniformidade visual reduz a identificação individual e contribui para o acidente de Lisa, que se confunde com a rua e os veículos.
+Os carros, as roupas, o asfalto e parte da arquitetura são cinza. A uniformidade visual reduz a identificação individual e contribui para o acidente de Lisa (que estava de cinza naquele dia), que se confunde com a rua e os veículos.
 
 O cinza simboliza conformidade, apagamento de identidade e neutralidade forçada.
 
